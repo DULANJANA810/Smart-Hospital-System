@@ -1,0 +1,25 @@
+SMART HOSPITAL SYSTEM - TEST RESULTS
+=====================================
+
+Test 1: Patient Registration
+- Input: Kamal Perera, Age 70, Urgency 3, Cardiology, ICU, 2 days
+- Output: PAT-1000, Final: LKR 48237.50
+- Result: PASS
+
+Test 2: Bed Occupancy
+- ICU Bed #01: Occupied
+- Result: PASS
+
+Test 3: Priority Sorting
+- Critical patients shown first
+- Result: PASS
+
+Test 4: Reports Generation
+- Total Revenue: LKR 48237.50
+- Result: PASS
+
+Test 5: File Save/Load
+- Data saved and loaded successfully
+- Result: PASS
+
+ALL TESTS PASSED SUCCESSFULLY
