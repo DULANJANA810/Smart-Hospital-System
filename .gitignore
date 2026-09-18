@@ -53,3 +53,19 @@ dkms.conf
 
 # debug information files
 *.dwo
+# Compiled files
+*.exe
+*.o
+*.out
+
+# Data files
+beds_status.txt
+patient_records.txt
+
+# Code::Blocks
+*.cbp
+*.depend
+*.layout
+
+# IDE files
+.vscode/
